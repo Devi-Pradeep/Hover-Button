@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+  font-family: Verdana;
+  justify-content: center;
+}
+
+.button {
+  text-align: center;
+}
+
+.hover_button {
+  background-color: green;
+  color: white;
+  padding: 15px 30px;
+  border-radius: 20px;
+}
+
+.hover_button:hover {
+  background-color: red;
+  border-radius: 100px;
+  padding: 30px 60px;
+}
